@@ -1,0 +1,18 @@
+# Ignore build output
+/build/
+
+# Ignore SDK config
+sdkconfig
+sdkconfig.old
+
+# Ignore temporary files
+*.pyc
+*.log
+*.tmp
+
+# Ignore hidden files and directories
+.vscode/
+.cproject
+.project
+.settings/
+.idea/
